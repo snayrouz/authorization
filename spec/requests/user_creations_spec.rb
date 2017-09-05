@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe "User" do
+RSpec.feature "User" do
   describe "User visits main page" do
     it "a user can be created" do
 
